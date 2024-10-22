@@ -1,7 +1,7 @@
 # Share Profile App
 
 
-The Share Profile App is a simple web application that allows users to create and share their profiles with others. It provides a clean and user-friendly interface for inputting personal information and sharing it easily.
+The Share Profile App is a simple web application that allows users to create and share their profiles with others. It provides a clean and user-friendly interface for inputting personal information and sharing it easily..
 
 ## Features
 
